@@ -78,9 +78,11 @@ if we would call `.shape`, we would get `[number_of_arrays, number_of_elements_i
    Splitting the data we want an equal ammount in both sides that are splitted.
 
    - In 2d
-     ![linear Regretion 2d](./2DLinearRegression.png)
+
+     - ![linear Regretion 2d](./2DLinearRegression.png)
 
    - In 3d
-     ![linear Regretion 2d](./3DLinearRegression.png)
+
+     - ![linear Regretion 2d](./3DLinearRegression.png)
 
    Once we've generated this line for our dataset, we can use its equation to predict future values. We just pass the features of the data point we would like to predict into the equation of the line and use the output as our prediction.
